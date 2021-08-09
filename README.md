@@ -4,12 +4,14 @@
    ![alt text](https://github.com/TanishqDsharma/nervous-network-task-3/blob/main/callingcontract.png)
    
 2) The transaction hash from the console output (in text format).
-   
-   * transactionHash: '0x407e38fa5484878d81584a0072edf4e3bebd9a6b2c719bd7c3f5a24f06f3bc81'
+   ```
+   0x407e38fa5484878d81584a0072edf4e3bebd9a6b2c719bd7c3f5a24f06f3bc81
+   ```
 
 3) The contract address that you called (in text format).
-    
-   * CONTRACT_ADDRESS = '0xa4E7A05820F9789210FeF22e7ce68B5A220F1A5E'
+   ``` 
+   0xa4E7A05820F9789210FeF22e7ce68B5A220F1A5E
+   ```
 
 4) The ABI for contract you made a call on (in text format).
    ```
